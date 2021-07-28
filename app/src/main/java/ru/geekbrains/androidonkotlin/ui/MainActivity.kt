@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             Toast.makeText(
                 this@MainActivity,
-                "Нажата кнопка",
+                getString(R.string.toastMsg),
                 Toast.LENGTH_SHORT
             ).show()
 
