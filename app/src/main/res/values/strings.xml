@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidOnKotlin</string>
+    <string name="button">Кнопка</string>
+    <string name="toastMsg">Нажата кнопка</string>
 </resources>
